@@ -1,5 +1,2 @@
-# illx10000
-
-> 青春不是年华，而是心境
-
-![Blog](/assets/img/blog.png)
+# illx10000.github.io
+个人博客
