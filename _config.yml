@@ -1,7 +1,7 @@
 # Site settings
 title: illx10000
 description: illx10000
-#favicon: /assets/img/avatar.JPG
+favicon: /assets/img/avatar.JPG
 baseurl:
 url: https://illx10000.github.io
 rss_url:
