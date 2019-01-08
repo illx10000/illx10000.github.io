@@ -1,5 +1,5 @@
 # Author settings
-name: 潘远叁
+name: 潘**
 title: c++ 后台开发工程师
 address: 中国, 深圳
 email: seeker_sysu@foxmail.com
@@ -12,7 +12,7 @@ workHistory:
   location: 中国, 深圳
   title: Linux 程序员
   started: 2015
-  duration: (2015.7 - )
+  duration: (2015 - )
   description: 
 
 educationHistory:
@@ -21,7 +21,7 @@ educationHistory:
   degree: 本科
   major: 软件工程
   started: 2011
-  duration: (2011.9 - 2015.7)
+  duration: (2011 - 2015)
   description: 学渣一枚，不值一提
 
 languages:
